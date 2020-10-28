@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
 <div>
-  Its surge app
+  Its surge app clear app
 </div>
 
   );
